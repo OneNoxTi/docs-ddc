@@ -1,0 +1,20 @@
+{
+  "version.label": {
+    "message": "Next"
+  },
+  "sidebar.docs.category.Вантажі": {
+    "message": "Cargo"
+  },
+  "sidebar.docs.category.Заборона": {
+    "message": "Prohibition"
+  },
+  "sidebar.docs.category.Користувачі та компанії": {
+    "message": "Users and companies"
+  },
+  "sidebar.docs.category.API": {
+    "message": "API"
+  },
+  "sidebar.docs.category.Платформа": {
+    "message": "Platform"
+  }
+}
