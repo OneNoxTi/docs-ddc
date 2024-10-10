@@ -4,13 +4,12 @@ slug: /
 ---
 
 ## Загальний опис
+**NG DDC** – is the Nova Global Data Dictionary and Catalogue. It is a central repository of information about data, its definitions, relationships and instructions for use. Nova Global DDC is a platform with authorised access for the company's services.
 
-**NG DDC** – це довідник данних Nova Global Data Dictionary and Catalog. Являється центральним сховищем інформації про дані, їх визначення, взаємозв'язки та інструкції з використання. Nova Global DDC - це платформа з авторизаційним доступом для сервісів компанії.
+General provisions:
 
-Загальні положення:
-
-* Платформа є власністю компанії NovaPoshta.
-* Доступ до Платформи надається тільки для ПЗ компанії NovaPoshta.
+* The platform is the property of the company NovaPoshta.
+* Access to the Platform is provided only for the software of Nova Poshta.
 * Доступ до платформи здійснюється за допомогою передачі даних зашифрованим каналом зв'язку за протоколом HTTPS (докладніше описано в розділі [Авторизація](#авторизація)).
 * Технічна підтримка Користувачів платформи здійснюється лише співробітниками NovaPoshta або зазначеними підрядниками
 
