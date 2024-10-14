@@ -45,6 +45,8 @@ To view information about the desired cargo, click on the field with the name.
 
 In the selected cargo card, you can view information about the cargo: 
 
+* **Country**
+* **Language**
 * **Category**
 * **Subcategory**
 * **HS code**

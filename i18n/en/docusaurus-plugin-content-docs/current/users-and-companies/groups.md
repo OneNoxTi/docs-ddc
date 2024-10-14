@@ -2,36 +2,36 @@
 title: Groups
 ---
 
-## Опис
+## Description
 
-Розділ дозволяє створювати групи з правами доступу для користувачів. Використовується при створені нового користувача.
+This section allows you to create groups with access rights for users. It is used when creating a new user.
 
-![image1](/img/uk/users-and-companies/groups/image1.png)
+![image1](/img/en/users-and-companies/groups/image1.png)
 
-## Нова група
+## New group
 
-Щоб створити **Нову групу**, заповніть наступні поля:
+To create a **New Group**, fill in the following fields:
 
-![image2](/img/uk/users-and-companies/groups/image2.png)
+![image2](/img/en/users-and-companies/groups/image2.png)
 
-| № | Поле | Опис |
-| :-: | ---- | ---- |
-| 1 | **Назва групи** | Вкажіть назву групи |
-| 2 | **Група заблокована** | Укажіть блокіровку групи через **Так/Ні** |
-| 3 | **Права доступу** | Вкажіть необхідні права доступу |
+| № | Field | Description |
+| :-: | ----- | ----------- |
+| 1 | **Title** | Enter the name of the group |
+| 2 | **Group is blocked** | Specify the group lock with **Yes/No**. |
+| 3 | **Access rights** | Specify the required access rights |
 
-Щоб зберегти інформацію нової групи, натисніть на кнопку **Зберегти**.
+To save the new group information, click the **Save** button.
 
-![image3](/img/uk/users-and-companies/groups/image3.png)
+![image3](/img/en/users-and-companies/groups/image3.png)
 
-## Список груп
+## List of groups
 
-У списку знаходяться вже сформовані групи, які можна переглянути або видалити.
+The list contains already created groups that you can view or delete.
 
-Щоб переглянути **Права доступу**, натисніть на обрану групу. На цій сторінці можна **Заблокувати групу**, змінити **Права доступу**, та **Видалити групу** зі списку. 
+To view the **Access rights**, click on the selected group. On this page, you can **Block the group**, change the **Access rights**, and **Remove the group** from the list. 
 
-![image4](/img/uk/users-and-companies/groups/image4.png)
+![image4](/img/en/users-and-companies/groups/image4.png)
 
-Щоб видалити групу, натисніть на кнопку **Видалити**.
+To delete a group, click the **Delete** button.
 
-![image5](/img/uk/users-and-companies/groups/image5.png)
+![image5](/img/en/users-and-companies/groups/image5.png)

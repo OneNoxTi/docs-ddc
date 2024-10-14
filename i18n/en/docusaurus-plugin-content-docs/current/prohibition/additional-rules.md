@@ -1,14 +1,14 @@
 ---
-title: Additional rules
+title: Additional Rules
 ---
 
 ## Description
 
-On the **Ban. Additional rules**, you can add new data to create new rules for prohibiting the import of goods or use existing data.
+On the **Prohibition. Additional Rules**, you can add new data to create new rules for prohibiting the import of goods or use existing data.
 
 ![image1](/img/en/prohibition/additional-rules/image1.png)
 
-To enter information about a **New Additional Rule**, click on the **Add** button icon.
+To enter information about a **New Additional Rules**, click on the **Add** button icon.
 
 ![image2](/img/en/prohibition/additional-rules/image2.png)
 
@@ -28,7 +28,7 @@ Fields marked with a red dot are required
 
 To save the entered data, click on the **Save** button. To delete, click on the **Delete** button.
 
-The entered **New Additional Rules** will be saved in the list of the **Ban. Additional rules** list.
+The entered **New Additional Rules** will be saved in the list of the **Prohibition. Additional Rules** list.
 
 ![image4](/img/en/prohibition/additional-rules/image4.png)
 

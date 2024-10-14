@@ -4,7 +4,7 @@ title: Brands
 
 ## Description
 
-In the **Goods. Brands** directory, you can add a new product brand and search for brands already listed. The selected **Brand** will be used when creating a **Cargo**.
+In the **Cargos. Brands** directory, you can add a new product brand and search for brands already listed. The selected **Brand** will be used when creating a **Cargo**.
 
 ![image1](/img/en/cargo/brands/image1.png)
 

@@ -4,7 +4,7 @@ title: Dictionary
 
 ## Description
 
-In the **Goods** directory, you can find information about the created goods, information about the status of the goods, and register a new goods.
+In the **Cargo. Registry** directory, you can find information about the created goods, information about the status of the goods, and register a new goods.
 
 ![image1](/img/en/cargo/dictionary/image1.png)
 
@@ -26,31 +26,20 @@ Click on the **Expand** button icon, select **Current cargo status** from the po
 
 * **New cargo**;
 * **Setting the HS code**;
-* **Translation**;
-* **Clarifying the name and description**;
-* **Category refinement**;
+* **On translation**;
+* **Clarifyi name and description**;
+* **Clarify category**;
 * **Ready for publication**;
-* **Published by**.
+* **Published**;
+* **Cancelled**.
 
 ![image5](/img/en/cargo/dictionary/image5.png)
 
-To cancel the cargo status selection, click on the **Cancel** button.
-
-![image6](/img/uk/cargo/dictionary/image6.png)
-
-A new field **Cancellation reason** appears. To specify the reason, click the button icon and select the reason for cancellation from the pop-up list:
-
-* **Cancellation - duplication**;
-* **Cancellation - HS code not found**;
-* **Cancellation is an unacceptable load**.
-
-![image7](/img/uk/cargo/dictionary/image7.png)
-
-To select a Cargo Category, click the **Expand** button icon. Select the first level Cargo Category from the pop-up list.
+To select a **Categories**, click the **Expand** button icon. Select the **first level Cargo Category** from the pop-up list.
 
 ![image8](/img/en/cargo/dictionary/image8.png)
 
-To select the desired **Category**, tick the **Check box** next to the selected category. A window with **Second level categories** will open.
+To select the desired **Categories**, tick the **Check box** next to the selected category. A window with **Second level categories** will open.
 
 ![image9](/img/en/cargo/dictionary/image9.png)
 
@@ -58,7 +47,7 @@ You can select one or more of the **Second level categories**. To select, leave 
 
 ![image10](/img/en/cargo/dictionary/image10.png)
 
-In the **Materials of manufacture** field, enter the material of the shipment or select from the drop-down list. To open the list, click the **Expand** button icon.
+In the **Manufacturing materials** field, enter the material of the shipment or select from the drop-down list. To open the list, click the **Expand** button icon.
 
 ![image11](/img/en/cargo/dictionary/image11.png)
 
@@ -74,7 +63,8 @@ If no **HS code** is specified for the country, the Default code will be used
 
 Fill in the following fields in different languages for further processing of the shipment:
 
-* **Title**;
+* **Language**;
+* **Name**;
 * **Description**;
 * **Keywords**.
 
@@ -94,7 +84,7 @@ The following filters are available on the **Goods.Register** page:
 
 | № | Filter | Description |
 | :-: | ------ | ---- |
-| 1 | **Registry language** | Allows you to display registers in the specified language: <li>**English** (English)</li><li>**Poland** (Polish)</li><li>**Ukrainian** (Ukrainian)</li> |
+| 1 | **Select registry language** | Allows you to display registers in the specified language: <li>**English**(English)</li><li>**Ukrainian** (Ukrainian)</li> |
 | 2 | **Cargo statuses** | Allows you to hide shipments with certain statuses by clicking the **Hide** button next to the required status <br/> You can also hide shipments with all statuses by clicking the **Hide All** button |
 
 :::info
@@ -143,21 +133,21 @@ In the cargo table, you can view the list of generated cargoes, as well as view 
 
 | № | Title | Description |
 | :-: | ----- | ---- |
-| 1 | **Cheque box** | Use **Cargo selection icons** to select a load |
-| 2 | **Cargo status** | **Cargo statuses** are highlighted in different colours for your convenience |
-| 3 | **HS codes** | Allows you to select cargo by country code |
-| 4 | **Name of the cargo** | Allows you to select a cargo by name |
-| 5 | **Information** | Allows you to go to the page with cargo information |
-| 6 | **Language**  | Allows you to see in which language(s) the cargo information is filled in |
-| 7 | **Number of HS** | Allows you to view the number of **HS codes** |
-| 8 |  |  | 
-| 9 | **Material** | Allows you to see the material of the cargo |
+| 1 | **Cargo status** | **Cargo statuses** are highlighted in different colours for your convenience |
+| 2 | **HS codes** | Allows you to select cargo by country code |
+| 3 | **Name of the cargo** | Allows you to select a cargo by name |
+| 4 | **Language**  | Allows you to see in which language(s) the cargo information is filled in |
+| 5 | **Number of HS** | Allows you to view the number of **HS codes** |
+| 6 | **Quantity of goods**| Allows you to see the quantity of goods in the shipment | 
+| 7 | **Material** | Allows you to see the material of the cargo |
 
 To go to the page with information about the cargo, click on the field with **Cargo name**.
 
 ![image21](/img/en/cargo/dictionary/image21.png)
 
 You can see it on the page: 
+
+![image22](/img/en/cargo/dictionary/image22.png)
 
 * **Name of the cargo**;
 * **UUID** – unique cargo identifier; 
@@ -170,17 +160,16 @@ This information cannot be changed
 
 The system allows you to change this on this page:
 
-* **Current status of the cargo**;
-* **Reason for cancellation**;
-* **Second level category**.
+* **Current cargo status**;
+* **Manufacturing materials**.
 
-![image22](/img/en/cargo/dictionary/image22.png)
-
-To save the changes, click the **Save** button. To update the cargo data, click the **Update** button icon. To return to the previous menu, click the **Close** button icon.
-
-Information about the cargo can be viewed on the **Information** page. To go to the **Information** page, click the **Information** button icon.
+To save the changes, click the **Save** button. To update the cargo data, click the **Refresh** button icon. To return to the previous menu, click the **Close** button icon.
 
 ![image23](/img/en/cargo/dictionary/image23.png)
+
+You can view information about the cargo on the **Information** page. To go to the **Information** page, click the **Informatio**n button icon.
+
+![image24](/img/en/cargo/dictionary/image24.png)
 
 The following information is available on this page:
 
@@ -191,7 +180,7 @@ The following information is available on this page:
 * **Keywords**;
 * **HS codes**.
 
-![image24](/img/en/cargo/dictionary/image24.png)
+![image25](/img/en/cargo/dictionary/image25.png)
 
 :::info
 The cargo data on this page cannot be changed
@@ -199,20 +188,18 @@ The cargo data on this page cannot be changed
 
 To add first or second level information, click on the **Add First Level** or **Add Second Level** buttons.
 
-![image25](/img/en/cargo/dictionary/image25.png)
-
-In the pop-up window, fill in the fields with the name of the cargo in different languages (the field of the cargo name in English is mandatory). To save, delete, or close the page, click the appropriate button.
-
 ![image26](/img/en/cargo/dictionary/image26.png)
 
-:::warning attention
-For the first level category, you must enter the name in all languages. If a language is not entered, the English version will be used when entering the name
-:::
+Add a first-level category to the cargo classifier structure.
 
-To add a second level, follow the same steps as when adding the first level. In the pop-up window that appears, fill in the fields with the name of the cargo in different languages (the field for the name of the cargo in English is mandatory). To save, delete, or close the page, click the appropriate button.
+In the pop-up window, fill in the fields with the name of the cargo in different languages (the field of the cargo name in English is mandatory). To save, delete, or close the page, click the appropriate button.
 
 ![image27](/img/en/cargo/dictionary/image27.png)
 
 :::warning attention
-For the first level category, you must enter the name in all languages. If a language is not entered, the English version will be used when entering the name
+A name in all languages is required for a first-level category. If a language is not entered, the English version will be used when the name is entered
 :::
+
+To add a second level, follow the same steps as when adding the first level. In the pop-up window that appears, fill in the fields with the name of the cargo in different languages (the field for the name of the cargo in English is mandatory). To save, delete, or close the page, click the appropriate button.
+
+![image28](/img/en/cargo/dictionary/image28.png)

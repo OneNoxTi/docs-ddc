@@ -2,20 +2,20 @@
 title: Companies
 ---
 
-## Опис
+## Description
 
-У довіднику Компанії можна додати інформацію про Нову компанію або використати вже збережені дані.
+In the **Companies** directory, you can add information about the **New Company** or use the already saved data.
 
-![image1](/img/uk/users-and-companies/companies/image1.png)
+![image1](/img/en/users-and-companies/companies/image1.png)
 
-## Нова компанія
+## New company
 
-Щоб додати у список **Нову компанію**, введіть назву нової компанії у полі **Назва** (обов'язкове поле для заповнення) та натисніть на кнопку **Зберегти**.
+To add a **New company** to the list, enter the name of the new company in the **Name** field (required) and click the **Save** button.
 
-![image2](/img/uk/users-and-companies/companies/image2.png)
+![image2](/img/en/users-and-companies/companies/image2.png)
 
-## Список компаній
+## List of companies
 
-Збережені компанії зберігаються у списку довідника **Компанії**.
+Saved companies are stored in the **Companies** directory list.
 
-![image3](/img/uk/users-and-companies/companies/image3.png)
+![image3](/img/en/users-and-companies/companies/image3.png)
